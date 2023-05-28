@@ -39,3 +39,7 @@ pip install -r requirements.txt
 ```sh
 python main.py
 ```
+
+# Sample Result
+
+![RA](https://github.com/sudharshan2001/CCTV-Analytics/assets/72936645/68a3c9f7-00d5-4387-b7f0-a6fb80fa868a)
