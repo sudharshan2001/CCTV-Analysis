@@ -23,7 +23,7 @@ Create Conda Environment
 
 ```sh
 conda create --name cctvanalysis python=3.9.7
-conda  activate zfish
+conda  activate cctvanalysis
 ```
 
 Install Requirements
@@ -42,4 +42,5 @@ python main.py
 
 # Sample Result
 
-![RA](https://github.com/sudharshan2001/CCTV-Analytics/assets/72936645/68a3c9f7-00d5-4387-b7f0-a6fb80fa868a)
+![RA (1)](https://github.com/sudharshan2001/CCTV-Analytics/assets/72936645/bc34836e-7959-42c9-abdd-f9d8942e076e)
+
