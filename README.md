@@ -1,4 +1,4 @@
-# CCTV-Analytics
+# CCTV-Analysis
 
 This application aims to enhance security and surveillance by leveraging deep learning techniques to automatically analyze and classify actions in CCTV footage, providing valuable insights and aiding in the identification of potential security threats.  This was presented at CyberX hackathon in final round.
 
